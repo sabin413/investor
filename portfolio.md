@@ -1,0 +1,12 @@
+# stocks and shares
+
+BTC 0.2
+AMZN 50
+MU 10
+GLD 4
+ORCL 50
+USAS 100
+COP 10
+KURA 100
+VOO 20
+CVX 25
